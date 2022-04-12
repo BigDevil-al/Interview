@@ -12,3 +12,5 @@
 [React运行时优化](https://mp.weixin.qq.com/s/4qzm5pFmvdDUncN4txiBPA)
 ## 前端复习计划
 https://juejin.cn/post/7061588533214969892
+## vue源码解析
+https://juejin.cn/column/6960553066101735461
