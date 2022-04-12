@@ -8,5 +8,7 @@
 [React基础](https://beta.reactjs.org/learn/describing-the-ui)
 
 [Javascript设置教程](https://www.robinwieruch.de/why-frameworks-matter/)
+
+[React运行时优化](https://mp.weixin.qq.com/s/4qzm5pFmvdDUncN4txiBPA)
 ## 前端复习计划
 https://juejin.cn/post/7061588533214969892
