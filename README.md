@@ -6,5 +6,7 @@
 [chrome插件开发](https://wizardforcel.gitbooks.io/chrome-doc/content/9.html)
 
 [React基础](https://beta.reactjs.org/learn/describing-the-ui)
+
+[Javascript设置教程](https://www.robinwieruch.de/why-frameworks-matter/)
 ## 前端复习计划
 https://juejin.cn/post/7061588533214969892
